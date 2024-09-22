@@ -1,0 +1,5 @@
+/*Permite configurar novas fontes, sem ser as padrões*/
+@font-face {
+    font-family: 'Lato';
+    src: url(./Lato-Regular.ttf) format(woff2);
+}
